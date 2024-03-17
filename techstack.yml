@@ -1,0 +1,1047 @@
+repo_name: zzhilin/ember.js
+report_id: db2d224f2ae9a27ba8ffbb94627ba78c
+version: 0.1
+repo_type: Public
+timestamp: '2024-03-17T21:00:43+00:00'
+requested_by: kategengler
+provider: github
+branch: main
+detected_tools_count: 75
+tools:
+- name: Handlebars.js
+  description: Minimal Templating on Steroids
+  website_url: http://handlebarsjs.com/
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Templating Languages & Extensions
+  image_url: https://img.stackshare.io/service/1143/Handlebars.png
+  detection_source_url: https://github.com/zzhilin/ember.js
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source_url: https://github.com/zzhilin/ember.js
+  detection_source: Repo Metadata
+- name: TypeScript
+  description: A superset of JavaScript that compiles to clean JavaScript output
+  website_url: http://www.typescriptlang.org
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1612/bynNY5dJ.jpg
+  detection_source_url: https://github.com/zzhilin/ember.js
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robert Jackson
+  last_updated_on: 2013-10-25 01:39:41.000000000 Z
+- name: Ember-cli
+  description: The command line interface for ambitious web applications
+  website_url: http://ember-cli.com/
+  open_source: false
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/1801/ember-cli.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: Ember.js
+  description: A JavaScript framework for creating ambitious web apps
+  website_url: http://emberjs.com/
+  version: 4.10.0
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Javascript MVC Frameworks
+  image_url: https://img.stackshare.io/service/1018/3s1seyc0csl75btyw1vl.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Edward Faulkner
+  last_updated_on: 2023-12-15 18:57:47.000000000 Z
+- name: ExpressJS
+  description: Sinatra inspired web development framework for node.js -- insanely
+    fast, flexible, and simple
+  website_url: http://expressjs.com/
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Microframeworks (Backend)
+  image_url: https://img.stackshare.io/service/1163/hashtag.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-06 19:40:08.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 7.22.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: Broccoli
+  description: Browser compilation library
+  website_url: https://github.com/broccolijs/broccoli
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/2861/default_d671729829d501f38cd6e6f5fc463482b7f588ae.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Chris Krycho
+  last_updated_on: 2023-04-18 19:59:23.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robert Jackson
+  last_updated_on: 2013-10-25 01:39:41.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source_url: https://github.com/zzhilin/ember.js
+  detection_source: Repo Metadata
+- name: Git-Repo
+  description: Manage Gitlab, GitHub and Bitbucket from the command line
+  website_url: https://github.com/guyzmo/git-repo
+  license: GPL-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Git Tools
+  image_url: https://img.stackshare.io/no-img-open-source.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robert Jackson
+  last_updated_on: 2013-10-25 01:39:41.000000000 Z
+- name: GitHub Actions
+  description: Automate your workflow from idea to production
+  website_url: https://github.com/features/actions
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/11563/actions.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/.github/workflows/alpha-releases.yml
+  detection_source: ".github/workflows/alpha-releases.yml"
+  last_updated_by: Edward Faulkner
+  last_updated_on: 2023-10-17 21:14:13.000000000 Z
+- name: Mocha
+  description: Simple, flexible, fun javascript test framework for node.js &amp; the
+    browser
+  website_url: http://mochajs.org/
+  version: 10.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/832/mocha.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-07-01 15:13:18.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robert Jackson
+  last_updated_on: 2013-10-25 01:39:41.000000000 Z
+- name: Prettier
+  description: Prettier is an opinionated code formatter.
+  website_url: https://prettier.io/
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 17:33:52.000000000 Z
+- name: Puppeteer
+  description: Headless Chrome Node API
+  website_url: https://github.com/GoogleChrome/puppeteer
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7553/puppeteer.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-07-31 01:26:43.000000000 Z
+- name: QUnit
+  description: A JavaScript Unit Testing framework
+  website_url: http://qunitjs.com/
+  version: 2.19.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/1421/b706f022230831a3d391db504a139e21.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robert Jackson
+  last_updated_on: 2013-10-25 01:39:41.000000000 Z
+- name: Vite
+  description: Native-ESM powered web dev build tool
+  website_url: https://vitejs.dev/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/21547/default_1aeac791cde11ff66cc0b20dcc6144eeb185c905.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robert Jackson
+  last_updated_on: 2013-10-25 01:39:41.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 5.74.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 03:15:15.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2021-12-18 04:34:09.000000000 Z
+- name: chalk
+  description: terminal colors
+  website_url: https://github.com/chalk/chalk
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/8072/13122722.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot-preview[bot]
+  last_updated_on: 2020-04-24 13:48:30.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.22.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: "@babel/helper-module-imports"
+  description: Babel helper functions for inserting module loads
+  package_url: https://www.npmjs.com/@babel/helper-module-imports
+  version: 7.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18683/default_581b87e91a401c6fd696f53c9cdb1fce1e8e5950.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: "@babel/plugin-proposal-decorators"
+  description: Compile class and object decorators to ES5
+  package_url: https://www.npmjs.com/@babel/plugin-proposal-decorators
+  version: 7.23.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16147/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: "@babel/plugin-transform-typescript"
+  description: Transform TypeScript into ES.next
+  package_url: https://www.npmjs.com/@babel/plugin-transform-typescript
+  version: 7.22.9
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17950/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.16.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: "@babel/types"
+  description: Babel Types is a Lodash-esque utility library for AST nodes
+  package_url: https://www.npmjs.com/@babel/types
+  version: 7.22.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16786/default_6e51a44775c61dcb2888547ad406a2f0cf2c344e.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: "@ember/optional-features"
+  description: The default blueprint for ember-cli addons
+  package_url: https://www.npmjs.com/@ember/optional-features
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16849/default_1b078765f7b7ae4ccce598a7251eb06451511e5e.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: "@octokit/rest"
+  description: GitHub REST API client for Node.js
+  package_url: https://www.npmjs.com/@octokit/rest
+  version: 0.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16999/default_43f23668e39c9b3381720c9c76540776b8a49167.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Robert Jackson
+  last_updated_on: 2013-10-25 01:39:41.000000000 Z
+- name: "@typescript-eslint/eslint-plugin"
+  description: TypeScript plugin for ESLint
+  package_url: https://www.npmjs.com/@typescript-eslint/eslint-plugin
+  version: 5.59.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15982/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: "@typescript-eslint/parser"
+  description: An ESLint custom parser which leverages TypeScript ESTree
+  package_url: https://www.npmjs.com/@typescript-eslint/parser
+  version: 5.62.0
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15980/default_732016a20524708efe7a4c77497fe9bfeea19ba6.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 17:33:52.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 10.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 03:15:15.000000000 Z
+- name: babel-template
+  description: Generate an AST from a string template
+  package_url: https://www.npmjs.com/babel-template
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17092/default_50357c490b205882dcfb608fd3c74b446186c21e.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: broccoli-asset-rev
+  description: Broccoli asset revisions
+  package_url: https://www.npmjs.com/broccoli-asset-rev
+  version: 3.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16119/default_efe4f0184d007a28e793d89a59e058b742bc9177.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2021-12-18 04:34:09.000000000 Z
+- name: broccoli-funnel
+  description: Broccoli plugin that allows you to filter files selected from an input
+    node down based on regular expressions
+  package_url: https://www.npmjs.com/broccoli-funnel
+  version: 3.0.8
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16912/default_2e3ed47575edcaf407097e6171e3d4cb8681a6b3.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Chris Krycho
+  last_updated_on: 2023-04-18 19:59:23.000000000 Z
+- name: broccoli-merge-trees
+  description: Broccoli plugin to merge multiple trees into one
+  package_url: https://www.npmjs.com/broccoli-merge-trees
+  version: 4.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16793/default_9a5182350af29cb82b3344853e865051f508ac6c.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Chris Krycho
+  last_updated_on: 2023-04-18 19:59:23.000000000 Z
+- name: chalk
+  description: Terminal string styling done right
+  package_url: https://www.npmjs.com/chalk
+  version: 4.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15813/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot-preview[bot]
+  last_updated_on: 2020-04-24 13:48:30.000000000 Z
+- name: common-tags
+  description: A few common utility template tags for ES2015
+  package_url: https://www.npmjs.com/common-tags
+  version: 1.8.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17307/default_78541a280e8cac42279d6c363e71e5b8f462e962.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-02-01 15:05:45.000000000 Z
+- name: ember-cli-app-version
+  description: Adds App version number to Ember Inspector Info Tab
+  package_url: https://www.npmjs.com/ember-cli-app-version
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16223/default_ab17554b7e80af3d234b14168ed61e75d43f8eee.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-cli-babel
+  description: Ember CLI addon for Babel
+  package_url: https://www.npmjs.com/ember-cli-babel
+  version: 7.26.11
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16116/default_77b54a203c743d16eddb6b6390cba17218454fa0.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: ember-cli-dependency-checker
+  description: Ember CLI addon for detecting missing npm and bower dependencies before
+    executing ember commands
+  package_url: https://www.npmjs.com/ember-cli-dependency-checker
+  version: 3.3.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16121/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Edward Faulkner
+  last_updated_on: 2023-12-15 18:57:47.000000000 Z
+- name: ember-cli-htmlbars
+  description: A library for adding htmlbars to ember CLI
+  package_url: https://www.npmjs.com/ember-cli-htmlbars
+  version: 6.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16115/default_63a34654baee757196ddff2457bd1c9a0dfb7287.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-cli-inject-live-reload
+  description: Plugin for ember-cli that injects live-reload script into HTML content
+  package_url: https://www.npmjs.com/ember-cli-inject-live-reload
+  version: 2.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16117/default_def3edb85d7fbd20200a5cd7d0a1679e31bc8b3d.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-cli-sri
+  description: SRI generation for Ember CLI
+  package_url: https://www.npmjs.com/ember-cli-sri
+  version: 2.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16180/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-data
+  description: A data layer for your Ember applications
+  package_url: https://www.npmjs.com/ember-data
+  version: 4.11.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16222/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-load-initializers
+  description: A tiny add-on to autoload your initializer files in ember-cli
+  package_url: https://www.npmjs.com/ember-load-initializers
+  version: 2.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16196/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-qunit
+  description: QUnit helpers for testing Ember.js applications
+  package_url: https://www.npmjs.com/ember-qunit
+  version: 6.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17016/default_8ef738cb63f629c8e87903029b82b45840ab75a3.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-resolver
+  description: The default modules based resolver for Ember CLI
+  package_url: https://www.npmjs.com/ember-resolver
+  version: 8.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16189/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-source
+  description: A JavaScript framework for creating ambitious web applications
+  package_url: https://www.npmjs.com/ember-source
+  version: 4.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16288/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: ember-welcome-page
+  description: Welcome page for Ember CLI applications
+  package_url: https://www.npmjs.com/ember-welcome-page
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16876/default_768abdabb94806c932ace6262b6bbc8241907245.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 9.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: eslint-import-resolver-node
+  description: Node default behavior import resolution plugin for eslint-plugin-import
+  package_url: https://www.npmjs.com/eslint-import-resolver-node
+  version: 0.3.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17714/default_8cfeb169319d5cc646c1e13f8a10e7d7e7430d7c.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: eslint-plugin-ember
+  description: Eslint plugin for Ember.js apps
+  package_url: https://www.npmjs.com/eslint-plugin-ember
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16474/default_4e3259350c525d1d859fa80a938000081d7c9db8.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 05:08:47.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.29.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: eslint-plugin-node
+  description: Additional ESLint's rules for Node.js
+  package_url: https://www.npmjs.com/eslint-plugin-node
+  version: 11.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15874/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Robert Jackson
+  last_updated_on: 2023-04-12 22:14:13.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 4.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: execa
+  description: Process execution for humans
+  package_url: https://www.npmjs.com/execa
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16132/default_3d197518f6bb529bfcc1b685e2cefbdfe83ff108.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot-preview[bot]
+  last_updated_on: 2021-07-01 08:18:59.000000000 Z
+- name: express
+  description: Fast, unopinionated, minimalist web framework
+  package_url: https://www.npmjs.com/express
+  version: 4.18.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15818/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2022-12-06 19:40:08.000000000 Z
+- name: finalhandler
+  description: Node.js final http responder
+  package_url: https://www.npmjs.com/finalhandler
+  version: 1.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17238/default_747c790463912ea0e3a85597146d9c13d6a53db9.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2019-05-10 06:15:06.000000000 Z
+- name: fs-extra
+  description: Fs-extra contains methods that aren't included in the vanilla Node.js
+    fs package
+  package_url: https://www.npmjs.com/fs-extra
+  version: 11.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15836/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-05-02 18:31:20.000000000 Z
+- name: github
+  description: 'DEPRECATED: renamed to @octokit/rest'
+  package_url: https://www.npmjs.com/github
+  version: 0.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16751/default_6dc099b12d47e378ae121fb53c336fe5d8f0ffc8.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Tobias Bieniek
+  last_updated_on: 2016-12-01 10:13:49.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 8.0.3
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2023-12-24 23:02:00.000000000 Z
+- name: inflection
+  description: A port of inflection-js to node.js module
+  package_url: https://www.npmjs.com/inflection
+  version: 2.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17018/default_192373fe2b3ded7bb442c39dbf0f34ca3e5bed5d.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Edward Faulkner
+  last_updated_on: 2023-12-15 18:57:47.000000000 Z
+- name: loader.js
+  description: Loader.js =========
+  package_url: https://www.npmjs.com/loader.js
+  version: 4.7.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16210/default_180418c6fa6cdb8f7a3500f84a8fedb884fcb3fa.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: NullVoxPopuli
+  last_updated_on: 2021-12-18 04:34:09.000000000 Z
+- name: lodash.uniq
+  description: The lodash method `_.uniq` exported as a module
+  package_url: https://www.npmjs.com/lodash.uniq
+  version: 4.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17115/default_1dbf402c11ef653fcaedc84e608a244e30ebfb87.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Chad Hietala
+  last_updated_on: 2017-03-15 15:37:44.000000000 Z
+- name: mkdirp
+  description: Recursively mkdir, like `mkdir -p`
+  package_url: https://www.npmjs.com/mkdirp
+  version: 3.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15881/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-12-12 18:37:55.000000000 Z
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 03:15:15.000000000 Z
+- name: qunit-dom
+  description: High Level DOM Assertions for QUnit
+  package_url: https://www.npmjs.com/qunit-dom
+  version: 2.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16779/default_661bbd7f9556b6c5c0b8be11cd13e1813fc5c977.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/smoke-tests/ember-test-app/package.json
+  detection_source: smoke-tests/ember-test-app/package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2023-03-21 03:15:15.000000000 Z
+- name: recast
+  description: JavaScript syntax tree transformer
+  package_url: https://www.npmjs.com/recast
+  version: 0.22.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17195/default_183829c5079b84333a720d8590a328efc043ba0e.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-04-18 23:48:16.000000000 Z
+- name: rsvp
+  description: A lightweight library that provides tools for organizing asynchronous
+    code
+  package_url: https://www.npmjs.com/rsvp
+  version: 4.8.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16773/default_55e3ea76a7929df1b71c5ea0c9b4130cc87323a4.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2021-10-01 15:05:03.000000000 Z
+- name: semver
+  description: The semantic version parser used by npm
+  package_url: https://www.npmjs.com/semver
+  version: 7.5.2
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18809/default_dad3dc9dde4b82dc2a7bd32aa091165887abe57b.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: dependabot[bot]
+  last_updated_on: 2023-06-24 02:05:15.000000000 Z
+- name: serve-static
+  description: Serve static files
+  package_url: https://www.npmjs.com/serve-static
+  version: 1.14.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16295/default_f04d39fc656c2e32ee1b9d3875a3002459aa3b69.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Peter Wagenet
+  last_updated_on: 2022-03-18 16:37:09.000000000 Z
+- name: testem
+  description: Test'em 'scripts! Javascript Unit testing made easy
+  package_url: https://www.npmjs.com/testem
+  version: 3.10.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17131/default_0ffbf6d9ee2940fe94be8424fd9afff068fff458.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Edward Faulkner
+  last_updated_on: 2023-10-17 21:14:13.000000000 Z
+- name: vite
+  description: Native-ESM powered web dev build tool
+  package_url: https://www.npmjs.com/vite
+  version: 4.4.7
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/package/npm/image.png
+  detection_source_url: https://github.com/zzhilin/ember.js/blob/main/package.json
+  detection_source: package.json
+  last_updated_by: Edward Faulkner
+  last_updated_on: 2023-10-17 20:03:44.000000000 Z
+  vulnerabilities:
+  - name: Vite dev server option `server.fs.deny` can be bypassed when hosted on case-insensitive
+      filesystem
+    cve_id: CVE-2024-23331
+    cve_url: https://github.com/advisories/GHSA-c24v-8rfc-w8vw
+    detected_date: Jan 20
+    severity: high
+    first_patched: 4.5.2
+  - name: Vite XSS vulnerability in `server.transformIndexHtml` via URL payload
+    cve_id: CVE-2023-49293
+    cve_url: https://github.com/advisories/GHSA-92r3-m2mg-pj97
+    detected_date: Dec 6
+    severity: moderate
+    first_patched: 4.4.12
